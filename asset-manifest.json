@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-1st-project.git/static/css/main.39f20603.chunk.css",
+    "main.js": "/react-1st-project.git/static/js/main.4dfb2a1b.chunk.js",
+    "main.js.map": "/react-1st-project.git/static/js/main.4dfb2a1b.chunk.js.map",
+    "runtime-main.js": "/react-1st-project.git/static/js/runtime-main.a455f0aa.js",
+    "runtime-main.js.map": "/react-1st-project.git/static/js/runtime-main.a455f0aa.js.map",
+    "static/js/2.d2c0a540.chunk.js": "/react-1st-project.git/static/js/2.d2c0a540.chunk.js",
+    "static/js/2.d2c0a540.chunk.js.map": "/react-1st-project.git/static/js/2.d2c0a540.chunk.js.map",
+    "static/js/3.8c66c24f.chunk.js": "/react-1st-project.git/static/js/3.8c66c24f.chunk.js",
+    "static/js/3.8c66c24f.chunk.js.map": "/react-1st-project.git/static/js/3.8c66c24f.chunk.js.map",
+    "index.html": "/react-1st-project.git/index.html",
+    "static/css/main.39f20603.chunk.css.map": "/react-1st-project.git/static/css/main.39f20603.chunk.css.map",
+    "static/js/2.d2c0a540.chunk.js.LICENSE.txt": "/react-1st-project.git/static/js/2.d2c0a540.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-1st-project.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a455f0aa.js",
+    "static/js/2.d2c0a540.chunk.js",
+    "static/css/main.39f20603.chunk.css",
+    "static/js/main.4dfb2a1b.chunk.js"
+  ]
+}
